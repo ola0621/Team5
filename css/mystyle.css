@@ -1,0 +1,14 @@
+
+
+
+.navbar-inverse {
+    background-color: blue;
+    border-color: red; /* external css is the least css powerful type. inline and internal oveerides it and it should be linked on the head */
+}
+
+#active{
+    
+    background-color: purple;
+}
+
+   .item active
